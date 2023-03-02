@@ -1,0 +1,9 @@
+{
+    "editor.cursorStyle": "line-thin",
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "cSpell.enableFiletypes": [
+        "!java"
+    ],
+    "cSpell.language": "en,en-US",
+    "java.debug.settings.onBuildFailureProceed": true
+}
